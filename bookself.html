@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ruang Baca</title>
+    <link rel="stylesheet" href="css/bookself.css"> 
+    <!-- Font Awesome 5.15.4 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+</head>
+<body>
+  <header class="navbar-container">
+        <div class="logo">
+            <img src="img/book2.png" alt="">
+        </div>
+            <p>Ruang Baca</p>
+  </header>
+  <main>
+        <form id="inputBook" autocomplete="off">
+            <p clas>Masukkan Buku Baru</p>
+            <div class="input">
+              <label for="inputBookTitle">Judul</label>
+              <input id="inputBuku" type="text" placeholder="Masukkan Judul Buku ..." required>
+            </div>
+            <div class="input">
+              <label for="inputBookAuthor">Penulis</label>
+              <input id="inputPenulis" type="text" placeholder="Masukkan Penulis  Buku..." required>
+            </div>
+            <div class="input">
+              <label for="inputBookYear">Tahun</label>
+              <input id="inputTahun" type="date" required>
+            </div>
+              <button id="bookSubmit" type="submit">Tambahkan buku</button>
+        </form>
+
+          <div class="addbook">
+            <h1 class="header">Belum Selesai Dibaca</h1>
+            <div class="search">
+              <input type="text" id="searchInput" placeholder="Cari berdasarkan judul buku...">
+              <button id="searchButton">Cari</button>
+            </div>
+            <div class="list-item" id="data-buku"> 
+            </div>
+        </div>
+  
+      <div class="addbook">
+          <h1 class="header">Selesai Dibaca</h1>
+          <div class="list-item" id="selesai">
+        
+          </div>
+      </div>
+   </main>
+
+ <script src="js/script.js"></script>
+</body>
+</html>
