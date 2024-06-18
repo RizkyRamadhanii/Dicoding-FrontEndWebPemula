@@ -66,5 +66,6 @@ Kontribusi sangat dihargai! Jika Anda ingin berkontribusi pada proyek ini, silak
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rizkyyyramadhaniii/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-rizky-ramadhani-2932241b7/)
 
-[![Project Link](https://img.shields.io/badge/Project%20Link-%237289DA.svg?&style=for-the-badge&logo=vue.js&logoColor=white)](https://ruangbaca-rizkyramadhani.vercel.app/)
+[![Project Link](https://img.shields.io/badge/Project%20Link-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)](https://ruangbaca-rizkyramadhani.vercel.app/)
+
 
