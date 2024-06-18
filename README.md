@@ -10,7 +10,6 @@ Ruang Baca adalah aplikasi web untuk mengelola daftar buku yang sedang dibaca da
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -62,12 +61,8 @@ Kontribusi sangat dihargai! Jika Anda ingin berkontribusi pada proyek ini, silak
 4. Push ke branch (`git push origin feature/AmazingFeature`).
 5. Buat Pull Request.
 
-## License
-
-Proyek ini dilisensikan di bawah lisensi MIT - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
-
 ## Contact
 
-Mohammad Rizky Ramadhani - [email@example.com](mailto:email@example.com)
+Mohammad Rizky Ramadhani - [rmdhni01283@gmail.com](mailto:rmdhni01283@gmail.com)
 
-Project Link: [https://github.com/username/ruang-baca](https://github.com/username/ruang-baca)
+Project Link: [https://ruangbaca-rizkyramadhani.vercel.app/](https://ruangbaca-rizkyramadhani.vercel.app/)
