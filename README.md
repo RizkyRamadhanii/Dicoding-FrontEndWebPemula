@@ -62,7 +62,8 @@ Kontribusi sangat dihargai! Jika Anda ingin berkontribusi pada proyek ini, silak
 5. Buat Pull Request.
 
 ## Contact
-
-Mohammad Rizky Ramadhani - [rmdhni01283@gmail.com](mailto:rmdhni01283@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmdhni01283@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rizkyyyramadhaniii/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-rizky-ramadhani-2932241b7/)
 
 Project Link: [https://ruangbaca-rizkyramadhani.vercel.app/](https://ruangbaca-rizkyramadhani.vercel.app/)
