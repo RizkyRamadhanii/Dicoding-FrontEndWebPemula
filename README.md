@@ -34,7 +34,7 @@ Ruang Baca adalah aplikasi web sederhana yang memungkinkan pengguna untuk menamb
 
 1. Clone repository ini:
     ```bash
-    git clone git clone https://github.com/username/ruang-baca.git
+    git clone https://github.com/username/ruang-baca.git
     ```
 
 2. Navigasi ke direktori proyek:
