@@ -1,6 +1,6 @@
 # Ruang Baca
 
-Ruang Baca adalah aplikasi web untuk mengelola daftar buku yang sedang dibaca dan telah selesai dibaca. Proyek ini dibuat oleh Mohammad Rizky Ramadhani.
+Ruang Baca adalah aplikasi web untuk mengelola daftar buku yang sedang dibaca dan telah selesai dibaca. Proyek ini dibuat oleh Mohammad Rizky Ramadhani. Ini adalah Submission akhir kelas ["Belajar Membuat Front-End Web Untuk Pemula"](https://www.dicoding.com/academies/315-belajar-membuat-front-end-web-untuk-pemula) dari Dicoding Academy.
 
 ## Table of Contents
 
